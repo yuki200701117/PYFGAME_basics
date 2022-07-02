@@ -50,4 +50,4 @@ displayscreen.blit(player_image, player_rect)
 
    
 
-<img src="https://github.com/yuki200701117/PYFGAME_basics/blob/main/%E6%93%B7%E5%8F%96.PNG" width="400" height"300" alt="2.py程式截圖"><br>
+<img src="https://github.com/yuki200701117/PYFGAME_basics/blob/main/%E6%93%B7%E5%8F%96.PNG" width="400" height="300" alt="2.py程式截圖"><br>
