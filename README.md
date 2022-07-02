@@ -50,4 +50,4 @@ displayscreen.blit(player_image, player_rect)
 
    
 
-    
+![2.py.程式截圖]()
